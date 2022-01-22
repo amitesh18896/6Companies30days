@@ -1,0 +1,7 @@
+* use a priority queue - min heap 
+
+* check input number with the min element present at top of the min heap
+
+* if(input number > top of min heap) -> replace it with the new input number and maintain size of the priority queue as 10
+
+* check only when size of priority queue becomes 10.
